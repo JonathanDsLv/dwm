@@ -13,3 +13,7 @@ Colors used:
 - Green
 - White
 - Black
+
+Font used: 
+
+- Terminus font
